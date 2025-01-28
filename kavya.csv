@@ -1,0 +1,4 @@
+OrderId,CustomerName,ProductName,Quantity,Price,Date,Status,SpecialRequest
+1,s,Fries,2,2.99,1,order_received,asfd
+1,s,Burger1,2,5.88,1,order_received,2
+2,k,Burger2,1,5.99,1,order_received,adsf
